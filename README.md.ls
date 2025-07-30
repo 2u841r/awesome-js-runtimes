@@ -265,6 +265,10 @@ document do
         td a href: "https://github.com/lynx-family/primjs", "Primjs"
         td stars "lynx-family/primjs"
         td commit "lynx-family/primjs"
+      tr do
+        td a href: "https://github.com/chakra-core/ChakraCore", "ChakraCore"
+        td stars "chakra-core/ChakraCore"
+        td commit "chakra-core/ChakraCore"
   """
     ## Links
 
